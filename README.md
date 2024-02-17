@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @atin-islam |
 - 👀 I’m interested in Cybersecurity |
 - 🌱 I’m currently learning Vulnerability Assessment and Penetration Testing |
-- 💞️ I’m working as an intern @BYte Capsule Ltd. where my designation is Jr. Penetration Tester |
+- 💞️ I’m doing my internship @BYte Capsule Ltd. as a Jr. Penetration Tester |
 - 📫 How to reach me: Linkedin |
 - ⚡ Fun fact: I like to learn about business as well! |
 
